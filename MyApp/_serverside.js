@@ -1,0 +1,1 @@
+﻿new ds.Person({firstName: "Bill", lastName: "Davies"}).save();ds.Person.all();
